@@ -1,0 +1,10 @@
+{
+	
+		"email": "bagoyays@yopmail.com",
+		"password": "#Olayinka22",
+		"emailField" :"input[type = 'email']",
+		"passwordField" :"input[type = 'password']",
+		"loginButton" :"[data-test='login-button']"
+	  
+
+}
